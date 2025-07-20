@@ -1,0 +1,12 @@
+accelerate
+diffusers
+torchvision
+transformers
+datasets
+ftfy
+tensorboard
+Jinja2
+bitsandbytes
+xformers
+hpsv2
+openai_clip
