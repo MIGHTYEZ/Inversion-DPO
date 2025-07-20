@@ -54,3 +54,5 @@ Our pretrained weights are available on [Hugging Face Hub](https://huggingface.c
 }
 ```
 
+## Acknowledgement
+This repository builds upon the [DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) implementation. We sincerely appreciate the authors for their valuable contribution to the community.
