@@ -1,7 +1,7 @@
 # <p align="center"> Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models </p>
 
 <p align="center">
-  <strong>🎉 Accepted at ACM MM 2025</strong>
+  <strong>🎉 Accepted by ACM MM 2025</strong>
 </p>
 
 <p align="center">
